@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/futureloop/static/css/main.2bd35633.css",
+    "main.js": "/futureloop/static/js/main.030c7c3e.js",
+    "index.html": "/futureloop/index.html",
+    "main.2bd35633.css.map": "/futureloop/static/css/main.2bd35633.css.map",
+    "main.030c7c3e.js.map": "/futureloop/static/js/main.030c7c3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2bd35633.css",
+    "static/js/main.030c7c3e.js"
+  ]
+}
