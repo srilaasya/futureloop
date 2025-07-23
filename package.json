@@ -2,7 +2,7 @@
   "name": "futureloop-react-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://srilaasya.github.io/futureloop",
+  "homepage": "https://futureloop.ai",
   "dependencies": {
     "gh-pages": "^6.3.0",
     "react": "^19.1.0",
@@ -31,5 +31,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "svg2png-cli": "^1.1.1"
   }
 }
